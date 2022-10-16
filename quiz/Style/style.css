@@ -1,0 +1,20 @@
+table, tr, td {
+    border:1px solid black;
+    text-align: center;
+}
+.tb1{
+    background-color: black;color: white;
+}
+.tb5{
+    background-color: green;color: white;
+}
+.tbribet{
+    background-color: green;color: white;
+    text-align: left;
+}
+.tb8{
+    background-color: green;color: white;
+}
+.tb16{
+    background-color: red;color: white;
+}
